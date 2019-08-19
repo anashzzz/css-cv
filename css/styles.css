@@ -1,0 +1,156 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 25px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p{
+  line-height: 2;
+}
+hr {
+  width: 4%;
+  border: dotted grey 6px;
+  border-bottom: none;
+  margin: 80px auto;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #BADFDB;
+  padding: 30px 0 10px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  width: 200px;
+}
+
+.computer-pic {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilly-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.butn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #66BFBF;
+  text-decoration: none;
+}
+.contact-desc{
+  margin: 40px auto 60px;
+  width: 40%;
+}
+.copyright-text{
+  color: #33774f;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.skill-bg {
+  height: 150px;
+  width: 150px;
+  margin: 0 20px 0 0;
+  border-radius: 100%;
+  background-color: #badfdb;
+  position: relative;
+  float: left;
+}
+.float-r{
+  float: right;
+  margin: 0 0 0 20px;
+}
+.design-pic {
+  width: 55%;
+  position: absolute;
+  top: 35px;
+  right: 35px;
+}
+
+.analysis-pic {
+  width: 55%;
+  position: absolute;
+  top: 35px;
+  right: 35px;
+}
